@@ -1,16 +1,15 @@
-# BrookWillard_RED_Settings
+* BrookWillard_RED_Settings
 
-  #+CAPTION: Overlays for  Various Configurations
+  #+ CAPTION: Overlays for  Various Configurations
   [[file:_Overlays.jpg]]
 
 
-  #+CAPTION: IPP2 LUTS
+  #+ CAPTION: IPP2 LUTS
   [[file:_IPP2_LUTS.jpg]]
 
-* Brook Willard's Collection of Presets, Overlays, Templates, and Luts for DSMC2 Cameras. 
 This ZIP file includes my default camera preset, default monitor overlays, and renamed versions of RED's "IPP2" REC709 LUTs.
 
- * NOTE: There are some bugs in the current release build [as of 8/1/18] which will affect loading these presets.
+* NOTE: There are some bugs in the current release build [as of 8/1/18] which will affect loading these presets.
 
 * NOTE: This preset was built on a DSMC2 Monstro camera. As such you should double-check your ISO and Resolution settings after applying the preset. The settings in the preset may be inappropriate for your camera.
 
