@@ -1,11 +1,11 @@
-* BrookWillard_RED_Settings
+# BrookWillard_RED_Settings
 
   #+ CAPTION: Overlays for  Various Configurations
-  [[file:_Overlays.jpg]]
+  [[file:overlays_small.jpg]]
 
 
   #+ CAPTION: IPP2 LUTS
-  [[file:_IPP2_LUTS.jpg]]
+  [[file:ipp2_luts.jpg]]
 
 This ZIP file includes my default camera preset, default monitor overlays, and renamed versions of RED's "IPP2" REC709 LUTs.
 
