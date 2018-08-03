@@ -1,11 +1,10 @@
 # BrookWillard_RED_Settings
-* Infrastructure
 
   #+CAPTION: Overlays for  Various Configurations
   [[file:_Overlays.jpg]]
 
 
-  #+CAPTION: Compare with mechanics of Quantum Physics
+  #+CAPTION: IPP2 LUTS
   [[file:_IPP2_LUTS.jpg]]
 
 * Brook Willard's Collection of Presets, Overlays, Templates, and Luts for DSMC2 Cameras. 
